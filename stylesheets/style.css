@@ -127,6 +127,7 @@ nav ul li a:hover {
 .about .long {
   color: #848c8e;
   text-align: center;
+  font-size: 18px;
 }
 
 hr {
@@ -161,10 +162,12 @@ hr {
 
 .neon ul li {
   list-style-type: none;
-  padding: 50px;
+  padding: 35px;
   margin: 20px;
   border-radius: 5px;
   transition: all 0.1s ease-in;
+  width: 200px;
+  text-align: center;
 }
 
 .sample {
