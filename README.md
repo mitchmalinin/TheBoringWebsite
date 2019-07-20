@@ -1,3 +1,3 @@
 # TheBoringWebsite
 
-http://www.theboringwebsite.com/
+theboringwebsite.com
